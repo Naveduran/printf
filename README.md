@@ -21,9 +21,10 @@ These are the files contained in this repository:
 - **man_3_printf**: man-page for the program _printf.
 - **_putchar.c** : here is the function to print one by one character.
 - **mod_character.c** : here are the function in which all functions are connected to be executed in the main in case of '%' character.
-- **0-basic.c**: here are the functions to print strings, reversed strings and characters, these will be executed by mod_character in case of a match with the first parameter of this one.
+- **0-basic.c**: here are the functions to print strings and characters, these will be executed by mod_character in case of a match with the first parameter of this one.
 - **2-numbers.c** : here are the functions to print integer numbers, these will be executed by mod_character in case of a match with the first parameter of this one.
 - **4-unsigned** : here are the function to print unsigned integer numbers, these will be executed by mod_character in case of a match with the first parameter of this one.
+- **1415.c*** : here are the functions to print reversed strings and print in rot13, these will be executed by mod_character in case of a match with the first parameter of this one.
 
 ---
 > ## Documentation
